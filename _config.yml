@@ -27,4 +27,4 @@ permalink:      /:year-:month-:day/:title
 paginate:       5
 
 #disqus
-disqus-shortname: sunhosong
+disqus-shortname: "sunhosong"
